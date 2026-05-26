@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdpdate",
+        "uuid": 13306698,
+        "checksum": "hq8xlm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
